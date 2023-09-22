@@ -8,7 +8,7 @@ Throughout my career, I've employed data-driven methodologies to extract valuabl
 
 My CV in [pdf](https://github.com/akilasiva93/Data-Analysis-Portfolio/blob/b8aac1868e3849852cbafd61c0ac228ee98c0370/Muthu_Meenakshi_Resume_updated.pdf).
 
-# # Portfolio Projects
+## Portfolio Projects
 
 Goal:
 Develop a predictive model for blueberry yield using Ridge Regression to address multicollinearity and meet regression assumptions.
@@ -26,7 +26,7 @@ Technology: Pandas, NumPy, Matplotlib, Seaborn, Plotly, SciPy, sklearn
 Results:
 Utilizing Ridge Regression, I achieved a significantly improved predictive accuracy for blueberry yield, effectively addressing multicollinearity concerns. The thorough examination of regression assumptions and comprehensive data exploration were pivotal in enhancing the reliability of our predictive model.
 
-# # Education
+## Education
 
 Avinashilingam University:Bachelors of Engineering - BE(ECE), June 2010 - Apr 2014
 
@@ -38,12 +38,12 @@ Sree Mahabarathi Higher Secondary School: Higher Secondary School Education, Jun
 * [Google Advanced Data Analytics](https://coursera.org/share/8ea456911dd1ed0560574770492462b1) (June 2023, Coursera - Google)
 * [IBM Data Analyst](https://coursera.org/share/7d00e00958b384ec343fe60a4055ef21) (Jan 2023, Coursera - IBM)
 
-# # Language Proficiency
+## Language Proficiency
 
 * English: C2 (Bilingual Proficiency)
 * German: B2 (Independent User)
 
-# # Contact
+## Contact
 
 * LinkedIn: [@muthumeenakshi](https://www.linkedin.com/in/muthu-meenakshi-61b36b89)
 * Email: [akilasiva93@gmail.com](akilasiva93@gmail.com)
