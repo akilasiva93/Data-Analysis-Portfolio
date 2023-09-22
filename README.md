@@ -32,7 +32,7 @@ Avinashilingam University:Bachelors of Engineering - BE(ECE), June 2010 - Apr 20
 
 Sree Mahabarathi Higher Secondary School: Higher Secondary School Education, June 2008 - Apr 2010
 
-# # Certificates
+## Certificates
 
 * [Visual Analytics with Tableau](https://coursera.org/share/b7f17cac95ddfdc98e590bfe1db162c0) (Sep 2023, Coursera - University of California, Davis)
 * [Google Advanced Data Analytics](https://coursera.org/share/8ea456911dd1ed0560574770492462b1) (June 2023, Coursera - Google)
