@@ -10,7 +10,7 @@ My CV in [pdf](https://github.com/akilasiva93/Data-Analysis-Portfolio/blob/b8aac
 
 ## Portfolio Projects
 
-**Regression Analysis**
+**Regression Analysis:**
 
 Goal:
 Develop a predictive model for blueberry yield using Ridge Regression to address multicollinearity and meet regression assumptions.
@@ -28,7 +28,7 @@ Technology: Pandas, NumPy, Matplotlib, Seaborn, Plotly, SciPy, sklearn
 Results:
 Utilizing Ridge Regression, I achieved a significantly improved predictive accuracy for blueberry yield, effectively addressing multicollinearity concerns. The thorough examination of regression assumptions and comprehensive data exploration were pivotal in enhancing the reliability of our predictive model.
 
-**Impactful SQL Project**
+**Impactful SQL Project:**
 
 Goal:
 Perform SQL-based Customer Churn Analysis for an ecommerce Retail client to communicate actionable recommendations and insights.
