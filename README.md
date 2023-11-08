@@ -33,12 +33,12 @@ Utilizing Ridge Regression, I achieved a significantly improved predictive accur
 Goal:
 Perform SQL-based Customer Churn Analysis for an ecommerce Retail client to communicate actionable recommendations and insights.
 
-Code:
+Code:[https://github.com/akilasiva93/Kaggle_Analysis/blob/f2a02796429d61706e2fbc5687482c8a2a0bb6ca/Analysis/SQL_Churn_Analysis.ipynb](https://github.com/akilasiva93/Kaggle_Analysis/blob/f2a02796429d61706e2fbc5687482c8a2a0bb6ca/Analysis/SQL_Churn_Analysis.ipynb)
 
 Description:
-Critically analyze customer churn data using SQL techniques, extracting valuable insights to formulate strategic recommendations and enhance business decision-making for our ecommerce Retail client.
+Using advanced SQL methods, I have meticulously studied customer churn data, extracting crucial insights. These insights will fuel the company's strategic recommendations, guiding the ecommerce Retail client towards informed decisions. My goal is to enhance the Retail Brand's business strategies, boost customer satisfaction, and ultimately drive growth and success in the competitive market.
 
-Skills: Data Cleaning, Data EDA, SQL, Pandas, matplotlib, numpy, Data Visualization, seaborn, plotly sqlite3
+Skills: Data Cleaning, Data EDA, SQL, Pandas, matplotlib, numpy, Data Visualization, seaborn, plotly, sqlite3
 
 ## Education
 
